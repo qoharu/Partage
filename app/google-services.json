@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "906475461699",
+    "firebase_url": "https://partage-7c11e.firebaseio.com",
+    "project_id": "partage-7c11e",
+    "storage_bucket": "partage-7c11e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906475461699:android:74781e8ac21260a4",
+        "android_client_info": {
+          "package_name": "id.innovable.partage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906475461699-i1npbnuo7g04j7nasm90g374m2lhjneg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyw7ktndd8jBMScEjNuaCCeFFgg694B8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
